@@ -1,0 +1,249 @@
+{
+    "success": true,
+    "message": "Events fetched successfully",
+    "filters": [
+        "all",
+        "today",
+        "upcoming",
+        "past"
+    ],
+    "data": {
+        "all": [
+            {
+                "id": 1,
+                "title": "Global Tech Summit 2024",
+                "description": "Annual gathering of tech leaders discussing AI, sustainability, and the future of Silicon Valley's innovation ecosystem.",
+                "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+                "date": "Oct 24",
+                "fullDate": "2024-10-24T18:30:00Z",
+                "location": "San Francisco, CA",
+                "locationDetails": "Nov 12-14",
+                "timeAgo": "2h ago",
+                "isBookmarked": false,
+                "category": "Technology"
+            },
+            {
+                "id": 2,
+                "title": "Local Charity Marathon",
+                "description": "Join the community for a 5k run to support local youth education programs. Registration open for all skill levels.",
+                "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+                "date": "Oct 25",
+                "fullDate": "2024-10-25T08:00:00Z",
+                "location": "Downtown",
+                "locationDetails": "City Center",
+                "timeAgo": "5h ago",
+                "isBookmarked": true,
+                "category": "Sports"
+            },
+            {
+                "id": 3,
+                "title": "Modern Art Exhibition",
+                "description": "A collection of contemporary sculptures and digital installations from emerging artists across the globe.",
+                "imageUrl": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800",
+                "date": "Oct 26",
+                "fullDate": "2024-10-26T10:00:00Z",
+                "location": "Art Gallery",
+                "locationDetails": "Main Hall",
+                "timeAgo": "1d ago",
+                "isBookmarked": false,
+                "category": "Art"
+            },
+            {
+                "id": 4,
+                "title": "Startup Pitch Night",
+                "description": "Watch 10 promising startups present their innovative ideas to a panel of experienced venture capitalists.",
+                "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800",
+                "date": "Oct 28",
+                "fullDate": "2024-10-28T19:00:00Z",
+                "location": "Innovation Hub",
+                "locationDetails": "Conference Room A",
+                "timeAgo": "3h ago",
+                "isBookmarked": false,
+                "category": "Business"
+            },
+            {
+                "id": 5,
+                "title": "Jazz Night Under the Stars",
+                "description": "An unforgettable evening of live jazz performances featuring local and international musicians.",
+                "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800",
+                "date": "Oct 29",
+                "fullDate": "2024-10-29T20:00:00Z",
+                "location": "Civic Center Park",
+                "locationDetails": "Open Air Stage",
+                "timeAgo": "12h ago",
+                "isBookmarked": true,
+                "category": "Music"
+            },
+            {
+                "id": 6,
+                "title": "Food & Wine Festival",
+                "description": "Taste exquisite dishes from top chefs paired with premium wines from renowned vineyards.",
+                "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+                "date": "Nov 01",
+                "fullDate": "2024-11-01T12:00:00Z",
+                "location": "Harbor District",
+                "locationDetails": "Waterfront Plaza",
+                "timeAgo": "6h ago",
+                "isBookmarked": false,
+                "category": "Food"
+            },
+            {
+                "id": 7,
+                "title": "Cybersecurity Workshop",
+                "description": "Hands-on workshop covering the latest security threats and defense strategies for enterprises.",
+                "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800",
+                "date": "Nov 03",
+                "fullDate": "2024-11-03T09:00:00Z",
+                "location": "Tech Campus",
+                "locationDetails": "Building C",
+                "timeAgo": "1d ago",
+                "isBookmarked": false,
+                "category": "Technology"
+            },
+            {
+                "id": 8,
+                "title": "Photography Masterclass",
+                "description": "Learn advanced techniques from award-winning photographers in this intensive full-day workshop.",
+                "imageUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800",
+                "date": "Nov 05",
+                "fullDate": "2024-11-05T10:00:00Z",
+                "location": "Creative Studio",
+                "locationDetails": "Floor 3",
+                "timeAgo": "4h ago",
+                "isBookmarked": false,
+                "category": "Art"
+            },
+            {
+                "id": 9,
+                "title": "Blockchain Conference",
+                "description": "Explore the future of decentralized finance and Web3 technologies with industry pioneers.",
+                "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800",
+                "date": "Nov 08",
+                "fullDate": "2024-11-08T09:00:00Z",
+                "location": "Convention Center",
+                "locationDetails": "Hall B",
+                "timeAgo": "8h ago",
+                "isBookmarked": true,
+                "category": "Technology"
+            },
+            {
+                "id": 10,
+                "title": "Yoga & Wellness Retreat",
+                "description": "A weekend of mindfulness, yoga sessions, and wellness workshops in a serene natural setting.",
+                "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+                "date": "Nov 10",
+                "fullDate": "2024-11-10T07:00:00Z",
+                "location": "Mountain Resort",
+                "locationDetails": "Sunrise Pavilion",
+                "timeAgo": "2d ago",
+                "isBookmarked": false,
+                "category": "Health"
+            }
+        ],
+        "today": [
+            {
+                "id": 1,
+                "title": "Global Tech Summit 2024",
+                "description": "Annual gathering of tech leaders discussing AI, sustainability, and the future of Silicon Valley's innovation ecosystem.",
+                "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+                "date": "Oct 24",
+                "fullDate": "2024-10-24T18:30:00Z",
+                "location": "San Francisco, CA",
+                "locationDetails": "Nov 12-14",
+                "timeAgo": "2h ago",
+                "isBookmarked": false,
+                "category": "Technology"
+            },
+            {
+                "id": 2,
+                "title": "Local Charity Marathon",
+                "description": "Join the community for a 5k run to support local youth education programs.",
+                "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+                "date": "Oct 24",
+                "fullDate": "2024-10-24T08:00:00Z",
+                "location": "Downtown",
+                "locationDetails": "City Center",
+                "timeAgo": "5h ago",
+                "isBookmarked": true,
+                "category": "Sports"
+            }
+        ],
+        "upcoming": [
+            {
+                "id": 4,
+                "title": "Startup Pitch Night",
+                "description": "Watch 10 promising startups present their innovative ideas to venture capitalists.",
+                "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800",
+                "date": "Oct 28",
+                "fullDate": "2024-10-28T19:00:00Z",
+                "location": "Innovation Hub",
+                "locationDetails": "Conference Room A",
+                "timeAgo": "In 4 days",
+                "isBookmarked": false,
+                "category": "Business"
+            },
+            {
+                "id": 5,
+                "title": "Jazz Night Under the Stars",
+                "description": "An unforgettable evening of live jazz performances.",
+                "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800",
+                "date": "Oct 29",
+                "fullDate": "2024-10-29T20:00:00Z",
+                "location": "Civic Center Park",
+                "locationDetails": "Open Air Stage",
+                "timeAgo": "In 5 days",
+                "isBookmarked": true,
+                "category": "Music"
+            },
+            {
+                "id": 6,
+                "title": "Food & Wine Festival",
+                "description": "Taste exquisite dishes from top chefs paired with premium wines.",
+                "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+                "date": "Nov 01",
+                "fullDate": "2024-11-01T12:00:00Z",
+                "location": "Harbor District",
+                "locationDetails": "Waterfront Plaza",
+                "timeAgo": "In 8 days",
+                "isBookmarked": false,
+                "category": "Food"
+            }
+        ],
+        "past": [
+            {
+                "id": 11,
+                "title": "AI Ethics Symposium",
+                "description": "Exploring the ethical implications of artificial intelligence in modern society.",
+                "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+                "date": "Oct 15",
+                "fullDate": "2024-10-15T09:00:00Z",
+                "location": "University Hall",
+                "locationDetails": "Auditorium",
+                "timeAgo": "9 days ago",
+                "isBookmarked": false,
+                "category": "Technology"
+            },
+            {
+                "id": 12,
+                "title": "Indie Film Festival",
+                "description": "Showcasing independent films from emerging directors worldwide.",
+                "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+                "date": "Oct 10",
+                "fullDate": "2024-10-10T18:00:00Z",
+                "location": "Cinema Palace",
+                "locationDetails": "Screens 1-5",
+                "timeAgo": "14 days ago",
+                "isBookmarked": true,
+                "category": "Entertainment"
+            }
+        ]
+    },
+    "pagination": {
+        "currentPage": 1,
+        "totalPages": 3,
+        "totalItems": 25,
+        "itemsPerPage": 10,
+        "hasNextPage": true,
+        "hasPrevPage": false
+    }
+}
